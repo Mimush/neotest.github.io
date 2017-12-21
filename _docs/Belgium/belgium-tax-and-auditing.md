@@ -1,6 +1,6 @@
 ---
 title: Tax and Auditing Requirements
-permalink: /docs/Belgium/belgium-tax-and-auditing
+permalink: /docs/belgium-tax-and-auditing
 ---
 
 
