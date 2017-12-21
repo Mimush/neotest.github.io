@@ -8,4 +8,7 @@
   docs:
   - cheatsheet
   - font-awesome
-  - bootstrap
+
+- title: Belgium
+  docs:
+  - belgium-tax-and-auditing
